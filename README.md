@@ -9,6 +9,8 @@
 All together these software / practices allow a company to constantly monitor and optimize deployment and upgrading of software, reducing the amount of people and time needed to perform tasks.
 <br>The final goal is a complete process atomization and reaching a state of instant development and deployment control.
 
+<h3>How to use VI and explanation:</h3>
+
 <h3>How does GitFlow works:</h3>
 
 First of all, what is the Gitflow:
